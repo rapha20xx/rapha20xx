@@ -9,7 +9,7 @@ Dicas, sugestões, e compartilhamento de idéias serão bem vindos😉
 <div style ="display: inline_block">
 <img align = "center" alt = "Java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
-<img align="center" alt = "Spring Boot" src= "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img align="center" alt = "Spring Boot" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
 <img align="center" alt = "Postgre" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -19,7 +19,7 @@ Dicas, sugestões, e compartilhamento de idéias serão bem vindos😉
 
 <img align="center" alt = "Css" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<img align="center" alt = "Git" src= " 	https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img align="center" alt = "Git" src= "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <img align="center" alt = "Github" src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
